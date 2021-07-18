@@ -1,0 +1,21 @@
+world(){
+tools(){
+}
+hero(){
+if tool == 1{
+}
+else{tool==0}
+}
+npc(){
+}
+farm(){
+livestock(){
+}
+barn(){
+}
+house(){
+}
+land(){
+}
+}
+}
