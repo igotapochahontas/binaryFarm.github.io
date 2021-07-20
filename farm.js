@@ -1,7 +1,5 @@
 world(){
-<p>
-hello world
-</p>
+alert("hello world");
 tools(){
 }
 hero(){
