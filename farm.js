@@ -1,10 +1,11 @@
 world(){
+<p>
+hello world
+</p>
 tools(){
 }
 hero(){
-if tool == 1{
-}
-else{tool==0}
+
 }
 npc(){
 }
