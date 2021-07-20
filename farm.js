@@ -1,3 +1,5 @@
+let world = world();
+
 world(){
 alert("hello world");
 tools(){
