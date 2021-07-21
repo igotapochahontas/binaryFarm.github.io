@@ -1,6 +1,6 @@
 let world = world();
 
-world(){
+function world(){
 alert("hello world");
 tools(){
 }
@@ -9,7 +9,7 @@ hero(){
 }
 npc(){
 }
-farm(){
+function farm(){
 livestock(){
 }
 barn(){
