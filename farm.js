@@ -4,7 +4,7 @@ function world(){
 alert("hello world");
 // maps
 tools{
-   transistor: true; 
+   electrons: 100; 
    seeds{
 and: true, 
 or: true, 
