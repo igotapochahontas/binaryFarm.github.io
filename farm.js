@@ -4,19 +4,14 @@ function world(){
 alert("hello world");
 tools(){
 }
-hero(){
+hero{
 
 }
-npc(){
+npc{
 }
 function farm(){
-livestock(){
-}
-barn(){
-}
-house(){
-}
+
 land(){
-}
-}
-}
+}// land
+} //farm
+}// world
