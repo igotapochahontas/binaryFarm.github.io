@@ -1,10 +1,14 @@
+var seeds = {
+    and: [1,1],
+    or: [0,1],
+    xor: [0,1]
+    }
+function cell() {
+this.one = true; 
 
-function setup() {
-  createCanvas(800, 800);
 }
-world();
+function setup(){
+}
 function draw() {
-background(220);
-
+background (0);
 }
-
